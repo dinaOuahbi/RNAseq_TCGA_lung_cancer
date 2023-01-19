@@ -27,6 +27,6 @@ Quelques notions importantes :
     si pour un gene, le foldchange >0, ca veut dire que ce gene est sous exprimé chez la reference
     ntd normalisation = le compte pour chaque gene dans chaque echantillon / moyenne geometrique de chaque gene a travers tous les echantillons
     
-  ![Image of aciduino on protoboard]()
-  ![Image of aciduino on protoboard]()
+  ![Image of aciduino on protoboard](https://github.com/dinaOuahbi/RNAseq_TCGA_lung_cancer/blob/main/heatmap.png)
+  ![Image of aciduino on protoboard](https://github.com/dinaOuahbi/RNAseq_TCGA_lung_cancer/blob/main/log2foldchange.png)
     
